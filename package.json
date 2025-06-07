@@ -6,13 +6,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/goit-js-hw-10/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "start": "vite",
-    "test": "echo \"No tests yet\"",
-    "goit": "echo vite.config.js base: '/goit-js-hw-10/'",
-    "bot-proof": "echo base: '/goit-js-hw-10/'"
+    "test": "echo \"No tests yet\""
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
