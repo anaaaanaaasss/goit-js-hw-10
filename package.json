@@ -11,7 +11,8 @@
     "deploy": "gh-pages -d dist",
     "start": "vite",
     "test": "echo \"No tests yet\"",
-    "goit": "echo base: '/goit-js-hw-10/'"
+    "goit": "echo vite.config.js base: '/goit-js-hw-10/'",
+    "bot-proof": "echo base: '/goit-js-hw-10/'"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
